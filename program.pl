@@ -7,15 +7,6 @@ edge(b,c,bc).
 edge(c,e,ce).
 edge(d,f,df). 
 
-
-list_sum([Item], Item).
-list_sum([Item1,Item2 | Tail], Total) :-
-    list_sum([Item1+Item2|Tail], Total).
-	
-sum_list([], 0).
-sum_list([H|T], Sum) :-
-   sum_list(T, Rest),
-   Sum is H + Rest.	
 	
 if_all_bool([]).
 if_all_bool([H|T]) :-
