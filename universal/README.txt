@@ -1,13 +1,13 @@
-Plik wejœciowy (input.txt):
-[[wierzcho³ki], [krawedzie], [[2 polaczone wierzch.], [2 polaczone wierz.],[itd.]]]
+Plik wejÅ›ciowy (input.txt):
+[[wierzchoÅ‚ki], [krawedzie], [[2 polaczone wierzch.], [2 polaczone wierz.],[itd.]]]
 
-Na przyk³ad mamy wierzcho³ki A,B,C. A i B s¹ po³¹czone krawêdzi¹ X, wtedy:
+Na przykÅ‚ad mamy wierzchoÅ‚ki A,B,C. A i B sÄ… poÅ‚Ä…czone krawÄ™dziÄ… G, wtedy:
 [[A, B, C], [G], [[A, B]]].
 
-(pamietaæ o kropce na koncu i ostatniej pustej linii w pliku)
-(stosowac wielkie litery - litery mozna zast¹piæ liczb¹ 0/1)
-(gdy nie ma krawêdzi, program zwraca false)
+(pamietaÄ‡ o kropce na koncu i ostatniej pustej linii w pliku)
+(stosowac wielkie litery - litery mozna zastÄ…piÄ‡ liczbÄ… 0/1)
+(gdy nie ma krawÄ™dzi, program zwraca false)
 
-Program: wywo³aæ: start.
+Program: wywoÅ‚aÄ‡: start.
 
-Wyjœcie (w konsoli): [[wierzcholki],[krawedzie]] (do ustalenia)
+WyjÅ›cie (w konsoli): [[wierzcholki],[krawedzie]] (do ustalenia)
